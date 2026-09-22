@@ -1,6 +1,5 @@
-_this_ is a **README**
-
-I am using docker and Intellij
+# DevOps
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beansquashed/devops/main.yml?branch=main&style=flat-square)
 
 ![workflow](https://github.com/beansquashed/devops/actions/workflows/main.yml/badge.svg)
 
